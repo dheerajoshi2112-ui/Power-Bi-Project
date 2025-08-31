@@ -2,4 +2,4 @@
 2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
 3. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 4. Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
-   Example: https://github.com/dheerajoshi2112-ui/Power-Bi-Project/blob/main/Power%20bi%20Dasboard.png
+   Example: ![Dashboard Preview](https://github.com/dheerajoshi2112-ui/Power-Bi-Project/blob/main/Power%20bi%20Dasboard.png)
